@@ -1,0 +1,6 @@
+# ninja log v6
+14	209	7559596049143057	CMakeFiles/class1.dir/main.cpp.obj	6688040e2bae4cd5
+397	1339	7559592646005361	class1.exe	ec75b311f1e273e7
+14	1244	7559600336557184	CMakeFiles/class1.dir/src/imgui_impl_glfw.cpp.obj	51b600d5ff93dcc3
+14	154	7559603284071545	CMakeFiles/class1.dir/src/main.cpp.obj	ee3579bf16356fbb
+20	838	7559600336623204	CMakeFiles/class1.dir/src/imgui_impl_opengl3.cpp.obj	1327525c5b308331
